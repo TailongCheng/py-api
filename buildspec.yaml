@@ -2,9 +2,9 @@ version: 0.2
 
 env:
   variables:
-     AWS_DEFAULT_REGION: ""
-     IMAGE_REPO_NAME: ""
-     AWS_ACCOUNT_ID: ""
+     AWS_DEFAULT_REGION: "us-east-1"
+     IMAGE_REPO_NAME: "py-app-repo"
+     AWS_ACCOUNT_ID: "975050079997"
 
 phases:
   #install:
